@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for compiled output
+dist/
+
+# Dependency directories
+node_modules/
+
+# Typescript specific
+*.tsbuildinfo
+
+# Environment variables
+.env
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+package-lock.json
